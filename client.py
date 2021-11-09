@@ -52,7 +52,7 @@ print("\n[1] Send program\n[2] Start program\n[3] Stop program\n[4] Delete progr
 choice = int(input("-> "))
 if choice == 1:
     file = open(input("File to upload -> ").replace("'",""),"r")
-    code = base64.b64encode(bytes(file.read().encode('utf-8')))
+    code = base64.b64encode(bytes(file.read().encode('utf-8'))).decode('utf-8')
     msg = requests.post(HOST + "/submit", json={'id': id,'code': code}).text
     print(handleMsgs(msg))
 elif choice == 2:
