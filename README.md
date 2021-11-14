@@ -11,6 +11,6 @@
   <br><br>
   <strong>To get a licence key, please DM me on discord : Noderyos#8300</strong>
   <br><br>
-  <strong>Original idea by <a href="https://github.com/billythegoat356/"><strong>billythegoat356</strong></a> named <em>Pandore</em> (RIP Pandore)</strong>
+  <strong>Original idea by <a href="https://github.com/billythegoat356/"><strong>billythegoat356</strong></a> named <em>Pandore</em> (RIP Pandore (Pandore is an img2ascii now))</strong>
 </p>
 <br>
