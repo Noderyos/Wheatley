@@ -9,6 +9,8 @@
   <br>
   <strong>If you succeed to Break up The security, please DM me on discord : Noderyos#8300</strong>
   <br><br>
+  <strong>To get a licence key, please DM me on discord : Noderyos#8300</strong>
+  <br><br>
   <strong>Original idea by <a href="https://github.com/billythegoat356/"><strong>billythegoat356</strong></a> named <em>Pandore</em> (RIP Pandore)</strong>
 </p>
 <br>
