@@ -1,7 +1,7 @@
 import requests
 import base64
 
-HOST = "http://vps.noderyos.tk:5000"
+HOST = "http://noderyos.dev:5000"
 def handleMsgs(s):
     if "E_PNE_" in s:
         return f'Error : Program with id {s[-13:]} does not exist'
