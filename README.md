@@ -1,4 +1,4 @@
-### <p align="center">Wheatley</p>
+### <p align="center">Wheatley (My instance is not online at the moment)</p>
 
 <p align="center">
   <strong>Wheatley is a discord bot hosting service written in Python3.</strong>
