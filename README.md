@@ -1,5 +1,7 @@
 ### <p align="center">Wheatley</p>
 
+# Server down since 3/25/2023
+
 <p align="center">
   <strong>Wheatley is a discord bot hosting service written in Python3.</strong>
   <br>
